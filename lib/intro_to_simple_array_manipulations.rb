@@ -13,7 +13,7 @@ def using_uniq(haircuts)
 end
 
 def using_flatten(instruments)
-  instruments.using_flatten
+  instruments.flatten
 end
 
 name = "Steven"
